@@ -12,9 +12,13 @@ A collection of example Curriculum Vitae (CV) templates to get you started.
 
 ## Examples
 
-Examples of CVs that have been corrected.
+Examples of CVs that have been corrected
 
+### Bart Simpson
 
+- [Original CV](./examples/bart/cv-bad-example.pdf)
+- [Notes](./examples/bart/cv-bad-example-notes.pdf)
+- [Corrected CV](./examples/bart/cv-corrected-example.pdf)
 
 ## Recommended Editors
 
