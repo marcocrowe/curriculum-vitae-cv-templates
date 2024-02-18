@@ -6,19 +6,17 @@ A collection of example Curriculum Vitae (CV) templates to get you started.
 ## CV Templates
 
 | Template             | Description                                                                              | Pdf                                                       | Word                                                        |
-|----------------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------------------|
+| -------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------------- |
 | One Page CV          | A open page CV template.                                                                 | [Pdf](./templates/cv-one-page.pdf)                        | [Word](./templates/cv-one-page.docx)                        |
-| Grades CV attachment | A [TUS](https://lit.ie) [BSc Software Development](https://lit.ie/courses/US820) Grades. | [Pdf](./templates/cv-grades-tus-software-development.pdf) | [Word](./templates/cv-grades-tus-software-development.docx) |
+| Grades CV attachment | A [TUS](https://lit.ie) [BSc Software Development](https://lit.ie/courses/US820) Grades. | [Pdf](./templates/cv-grades-tus-software-development.pdf) | [Word](./templates/cv-grades-tus-software-development.docx) |
 
 ## Examples
 
-Examples of CVs that have been corrected
+A collection of example CVs that have been corrected
 
-### Bart Simpson
-
-- [Original CV](./examples/bart/cv-bad-example.pdf)
-- [Notes](./examples/bart/cv-bad-example-notes.pdf)
-- [Corrected CV](./examples/bart/cv-corrected-example.pdf)
+| CV                                | Description                       | Original CV                                | Notes                                            | Corrected CV                                     |
+| --------------------------------- | --------------------------------- | ------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
+| [Bart](./examples/bart/readme.md) | A Software development graduate.  | [Pdf](./examples/bart/cv-bad-example.pdf)  | [Pdf](./examples/bart/cv-bad-example-notes.pdf)  | [Pdf](./examples/bart/cv-corrected-example.pdf)  |
 
 ## Recommended Editors
 
@@ -38,4 +36,5 @@ Examples of CVs that have been corrected
 - Mermaid: [https://mermaid-js.github.io/mermaid-live-editor/](https://mermaid-js.github.io/mermaid-live-editor/)
 
 ---
-Copyright (c) 2023 Mark Crowe <https://github.com/markcrowe-com>. All rights reserved.
+
+Copyright &copy; 2023 Mark Crowe [https://github.com/markcrowe-com](https://github.com/markcrowe-com). All rights reserved.
