@@ -1,5 +1,5 @@
 
-# [Curriculum Vitae Templates](https://github.com/markcrowe-com/curriculum-vitae-templates)
+# [Curriculum Vitae Templates](https://github.com/marcocrowe/curriculum-vitae-templates)
 
 A collection of example Curriculum Vitae (CV) templates to get you started.
 
@@ -14,9 +14,10 @@ A collection of example Curriculum Vitae (CV) templates to get you started.
 
 A collection of example CVs that have been corrected
 
-| CV                                | Description                       | Original CV                                | Notes                                            | Corrected CV                                     |
-| --------------------------------- | --------------------------------- | ------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
-| [Bart](./examples/bart/readme.md) | A Software development graduate.  | [Pdf](./examples/bart/cv-bad-example.pdf)  | [Pdf](./examples/bart/cv-bad-example-notes.pdf)  | [Pdf](./examples/bart/cv-corrected-example.pdf)  |
+| CV                                | Description                       | Original CV                                 | Notes                                             | Corrected CV                                     |
+| --------------------------------- | --------------------------------- | ------------------------------------------- | ------------------------------------------------- | ------------------------------------------------ |
+| [Bart](./examples/bart/readme.md) | A Software development graduate.  | [Pdf](./examples/bart/cv-bad-example.pdf)   | [Pdf](./examples/bart/cv-bad-example-notes.pdf)   | [Pdf](./examples/bart/cv-corrected.pdf)          |
+|                                   |                                   | [Word](./examples/bart/cv-bad-example.docx) |                                                   | [Word](./examples/bart/cv-corrected.docx)        |
 
 ## Recommended Editors
 
@@ -37,4 +38,4 @@ A collection of example CVs that have been corrected
 
 ---
 
-Copyright &copy; 2023 Mark Crowe [https://github.com/markcrowe-com](https://github.com/markcrowe-com). All rights reserved.
+Copyright &copy; 2023 Mark Crowe [https://github.com/marcocrowe](https://github.com/marcocrowe). All rights reserved.
