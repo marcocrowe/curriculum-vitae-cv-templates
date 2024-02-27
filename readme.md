@@ -1,25 +1,24 @@
-
 # [Curriculum Vitae (CV) Templates](https://github.com/marcocrowe/curriculum-vitae-cv-templates)
 
 A collection of example Curriculum Vitae (CV) templates to get you started.
 
 ## CV Templates
 
-| Template             | Description                                                                              | Pdf                                                       | Word                                                        |
-|----------------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------------------|
-| One Page CV          | A open page CV template.                                                                 | [Pdf](./templates/cv-one-page.pdf)                        | [Word](./templates/cv-one-page.docx)                        |
-| Grades CV attachment | A [TUS](https://lit.ie) [BSc Software Development](https://lit.ie/courses/US820) Grades. | [Pdf](./templates/cv-grades-tus-software-development.pdf) | [Word](./templates/cv-grades-tus-software-development.docx) |
+| Template             | Description                                                                       | Pdf                                                    | Word                                                     |
+| -------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------- |
+| One Page CV          | A open page CV template.                                                          | [Pdf](./templates/cv-one-page.pdf)                        | [Word](./templates/cv-one-page.docx)                        |
+| Grades CV attachment | A[TUS](https://lit.ie) [BSc Software Development](https://lit.ie/courses/US820) Grades. | [Pdf](./templates/cv-grades-tus-software-development.pdf) | [Word](./templates/cv-grades-tus-software-development.docx) |
 
 ## Examples
 
 A collection of example CVs that have been corrected
 
-| CV                                        | Description                      | Original CV                                     | Notes                                               | Corrected CV                                  |
-|-------------------------------------------|----------------------------------|-------------------------------------------------|-----------------------------------------------------|-----------------------------------------------|
-| [Bart](./examples/bart/readme.md)         | A Software development graduate. | [Pdf](./examples/bart/cv-bad-example.pdf)       | [Pdf](./examples/bart/cv-bad-example-notes.pdf)     | [Pdf](./examples/bart/cv-corrected.pdf)       |
-|                                           |                                  | [Word](./examples/bart/cv-bad-example.docx)     |                                                     | [Word](./examples/bart/cv-corrected.docx)     |
-| [Milhouse](./examples/milhouse/readme.md) | A Software development graduate. | [Pdf](./examples/milhouse/cv-bad-example.pdf)   | [Pdf](./examples/milhouse/cv-bad-example-notes.pdf) | [Pdf](./examples/milhouse/cv-corrected.pdf)   |
-|                                           |                                  | [Word](./examples/milhouse/cv-bad-example.docx) |                                                     | [Word](./examples/milhouse/cv-corrected.docx) |
+| CV                                   | Description                        | Original CV                                 | Notes                                           | Corrected CV                              |
+| ------------------------------------ | ---------------------------------- | ------------------------------------------- | ----------------------------------------------- | ----------------------------------------- |
+| [Bart](./examples/bart/readme.md)       | A Software development graduate.   | [Pdf](./examples/bart/cv-bad-example.pdf)      | [Pdf](./examples/bart/cv-bad-example-notes.pdf)    | [Pdf](./examples/bart/cv-corrected.pdf)      |
+|                                      |                                    | [Word](./examples/bart/cv-bad-example.docx)    |                                                 | [Word](./examples/bart/cv-corrected.docx)    |
+| [Jamshed](./examples/jamshed/readme.md) | A Business with Computing student. | [Pdf](./examples/jamshed/cv-bad-example.pdf)   | [Pdf](./examples/jamshed/cv-bad-example-notes.pdf) | [Pdf](./examples/jamshed/cv-corrected.pdf)   |
+|                                      |                                    | [Word](./examples/jamshed/cv-bad-example.docx) |                                                 | [Word](./examples/jamshed/cv-corrected.docx) |
 
 ## Recommended Editors
 

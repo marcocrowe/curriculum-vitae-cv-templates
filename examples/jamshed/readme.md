@@ -3,9 +3,9 @@
 
 A collection of example Curriculum Vitae (CV) templates to get you started.
 
-## Milhouse Van Houten
+## Jamshed Nahasapeemapetilon
 
-Milhouse Van Houten is a first year student of Springfield University studying for a Bsc. in Business with Computing
+Jamshed Nahasapeemapetilon is a first year student of Springfield University studying for a Bsc. in Business with Computing
 
 - [Original CV](cv-bad-example.pdf)
 - [Notes](cv-bad-example-notes.pdf)
