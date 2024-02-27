@@ -3,9 +3,9 @@
 
 A collection of example Curriculum Vitae (CV) templates to get you started.
 
-## Bart Simpson
+## Milhouse Van Houten
 
-Bart is a recent graduate of Springfield University with Bsc. in Software Development
+Milhouse Van Houten is a first year student of Springfield University studying for a Bsc. in Business with Computing
 
 - [Original CV](cv-bad-example.pdf)
 - [Notes](cv-bad-example-notes.pdf)
