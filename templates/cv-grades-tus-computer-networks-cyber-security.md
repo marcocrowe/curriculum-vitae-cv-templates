@@ -3,8 +3,8 @@
 ## Technology University of Shannon, BSc. in Computer Networks & Cyber Security - Grades
 
 |                                                |   |
-| ---------------------------------------------- | - |
-| **Year 1**                               |   |
+|------------------------------------------------|---|
+| **Year 1**                                     |   |
 | Communications And Applications                | % |
 | Computer Mathematics                           | % |
 | Digital Systems Concepts                       | % |
@@ -17,7 +17,7 @@
 | Structured Programming                         | % |
 | Understanding Local Area Networks              | % |
 | Web Development Fundamentals                   | % |
-| **Year 2**                               |   |
+| **Year 2**                                     |   |
 | Client-Server Technologies                     | % |
 | Cyber Security Operations                      | % |
 | Data Essentials                                | % |
@@ -30,14 +30,14 @@
 | Public Cloud Foundations                       | % |
 | Server Virtualisation & Storage                | % |
 | Statistics and Probability                     | % |
-| **Year 3**                               |   |
+| **Year 3**                                     |   |
 | Data Comms                                     | % |
 | Group Project                                  | % |
 | Network Security                               | % |
 | Server Administration: Services                | % |
 | Technical Writing & Research Skills            | % |
 | Work Placement                                 | % |
-| **Year 4**                               |   |
+| **Year 4**                                     |   |
 | Applied Cryptography                           | % |
 | Data Centre Design                             | % |
 | Digital Forensics                              | % |
