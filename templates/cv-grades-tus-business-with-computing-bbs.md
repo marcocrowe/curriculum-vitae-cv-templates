@@ -57,4 +57,4 @@
 | Managerial Finance (Elective)                        | % |
 | Strategic Management Practice                        | % |
 
-See more at [Business with Computing – BBc (Hons)](https:///courses/us855/ "Business with Computing – BBs (Hons)")
+See more at [Business with Computing – BBs (Hons)](https:///courses/us855/ "Business with Computing – BBs (Hons)")

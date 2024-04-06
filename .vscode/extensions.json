@@ -16,6 +16,7 @@
 		"wraith13.open-in-github-desktop",
 		"eamodio.gitlens",
 		"gruntfuggly.todo-tree",
-		"vscode-icons-team.vscode-icons"
+		"vscode-icons-team.vscode-icons",
+		"tyriar.sort-lines"
 	]
 }
