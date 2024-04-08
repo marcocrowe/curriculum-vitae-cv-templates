@@ -64,3 +64,7 @@
 See more at [Software Development – BSc (Hons)
 ](https://tus.ie/courses/us820/ "Software Development – BSc (Hons)
 ")
+
+---
+
+Copyright &copy; 2023 Mark Crowe [https://github.com/marcocrowe](https://github.com/marcocrowe). All rights reserved.

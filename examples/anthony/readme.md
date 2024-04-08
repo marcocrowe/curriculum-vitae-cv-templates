@@ -1,5 +1,4 @@
 
-
 # [Curriculum Vitae (CV) Templates](https://github.com/marcocrowe/curriculum-vitae-cv-templates)
 
 A collection of example Curriculum Vitae (CV) templates to get you started.

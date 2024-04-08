@@ -52,3 +52,7 @@
 | Software Defined Networks & Network Automation | % |
 
 See more at [Computer Networks & Cyber Security – BSc (Hons)](https://tus.ie/courses/us827/ "Computer Networks & Cyber Security – BSc (Hons)")
+
+---
+
+Copyright &copy; 2023 Mark Crowe [https://github.com/marcocrowe](https://github.com/marcocrowe). All rights reserved.

@@ -58,3 +58,7 @@
 | Strategic Management Practice                        | % |
 
 See more at [Business with Computing – BBs (Hons)](https:///courses/us855/ "Business with Computing – BBs (Hons)")
+
+---
+
+Copyright &copy; 2023 Mark Crowe [https://github.com/marcocrowe](https://github.com/marcocrowe). All rights reserved.
